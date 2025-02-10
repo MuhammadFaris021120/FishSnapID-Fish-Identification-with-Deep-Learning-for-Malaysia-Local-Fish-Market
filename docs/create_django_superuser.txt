@@ -1,0 +1,9 @@
+PS C:\YAZID\FYP\fish_snapid_svc> python manage.py createsuperuser
+Fusing layers...
+C:\Users\YUNOS-NB\AppData\Local\Programs\Python\Python38\lib\site-packages\torch\functional.py:512: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\native\TensorShape.cpp:3588.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Username (leave blank to use 'yunos-nb'):
+Email address: yunosmansor@yahoo.com
+Password:	Fujitsu@30
+Password (again):	Fujitsu@30
+Superuser created successfully.

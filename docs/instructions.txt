@@ -1,0 +1,6 @@
+first make your environment on python 3.8
+then install all the dependencies using the following command
+
+pip install -r requirements.txt
+
+when the dependencies are all successfully installed, then you have to follow the API document to use the API through postman. 

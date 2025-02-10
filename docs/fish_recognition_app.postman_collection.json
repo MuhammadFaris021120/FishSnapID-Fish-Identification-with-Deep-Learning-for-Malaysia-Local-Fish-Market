@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "afc38a3c-01b2-492c-a36c-d661068751dd",
+		"name": "fish_recognition_app",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://0.0.0.0:8000/detection/",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "input_image",
+							"type": "file",
+							"src": "/home/projectz-pc2/Downloads/Daun Baru (14).png"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://0.0.0.0:8000/detection/",
+					"protocol": "http",
+					"host": [
+						"0",
+						"0",
+						"0",
+						"0"
+					],
+					"port": "8000",
+					"path": [
+						"detection",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
