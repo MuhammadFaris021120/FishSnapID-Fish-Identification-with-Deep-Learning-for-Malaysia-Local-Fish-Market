@@ -1,4 +1,4 @@
-#look at the branches for the code frontend and backend thanks
+look at the branches for the code frontend and backend thanks
 
 ## **FishSnapID: Fish Identification with Deep Learning for Malaysia Local Fish Market**
 
